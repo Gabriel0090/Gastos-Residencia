@@ -1,3 +1,12 @@
 Nome            /             Data             /             Valor               /          Quantidade         /                 Descrição
 
 Gabriel                15/03/2026                          R$67                               5                                  Pé de mlk
+
+Molinari               19/05/2026                          R$98                               2                                  Camaro
+
+Gabriel                20/05/2026                          R$5                                1                                  Pastel
+
+Gabriel                25/05/2026                          R$190                              1                                  Laranja
+
+Gabriel                07/07/2026                          R$9                                1                                  Cappuccino
+
