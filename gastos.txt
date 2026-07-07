@@ -1,12 +1,30 @@
 Nome            /             Data             /             Valor               /          Quantidade         /                 Descrição
 
-Gabriel                15/03/2026                          R$67                               5                                  Pé de mlk
+Wesley                15/03/2026                          R$67                               5                                  Pé de mlk
 
 Molinari               19/05/2026                          R$98                               2                                  Camaro
 
 Gabriel                20/05/2026                          R$5                                1                                  Pastel
 
-Gabriel                25/05/2026                          R$190                              1                                  Laranja
+Cabral                25/05/2026                          R$190                              1                                  Laranja
 
-Gabriel                07/07/2026                          R$9                                1                                  Cappuccino
+Jorge                07/07/2026                          R$9                                1                                  Cappuccino
+
+
+-------------------------------------
+
+
+Nome            /             Data             /             Valor               /          Quantidade         /                 Descrição
+
+Wesley                15/03/2026                          R$67                               2                                  Pé de mlk
+
+Garcia              19/05/2026                          R$98                               10                                  Camaro
+
+Macedo                20/05/2026                          R$5                                50                                  Pastel
+
+Gabriel                25/05/2026                          R$190                              0,5                                  Laranja
+
+Molinari               07/07/2026                          R$9                                2                                  Cappuccino
+
+
 
