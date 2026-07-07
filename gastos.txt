@@ -1,3 +1,3 @@
-lista
-lista2
-lista3
+Nome            /             Data             /             Valor               /          Quantidade         /                 Descrição
+
+Gabriel                15/03/2026                          R$67                               5                                  Pé de mlk
